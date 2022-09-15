@@ -1,8 +1,4 @@
-<div>
-<img src="https://komarev.com/ghpvc/?username=Purushottam-BCA&color=green&label=+Profile+Views" alt="Purushottam-BCA" height="25"/>
-
 <h1 align="center">Hi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">, I'm Purushottam</h1>  
-</div>
   
 <div align="center">
   
