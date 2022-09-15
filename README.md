@@ -50,29 +50,10 @@
 ---
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
-
-<p align="center">
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api?username=Purushottam-BCA&show_icons=true&count_private=true&theme=dark" height="165">&nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Purushottam-BCA&layout=compact&theme=dark&hide=html" height = "165">
-  </a>
-</p>
-
-<details open="">
-<summary>
-  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
-  <strong>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 : </strong>
-</summary>
-<br/>
-
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Purushottam-BCA&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true" align="center" />
-    &nbsp;<img align="center" width="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Purushottam-BCA&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=6&hide_border=true&hide=html,typescript,javascript,css" />
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Purushottam-BCA&theme=dracula)
+    &nbsp;<img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Purushottam-BCA&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&layout=compact&langs_count=6&hide_border=true&hide=html,typescript,javascript,css" />
 </p>
-</details>
-<br/>
 
 ---
 
