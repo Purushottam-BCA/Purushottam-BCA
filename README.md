@@ -50,10 +50,8 @@
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Pk_1998?theme=dark&ext=heatmap&hide=ranking&animation=false&cache=0)
 
-<p align="left">
-  <a href="https://www.codechef.com/users/abhimaira_10">
-    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/codechef.svg" alt="codechef" style="vertical-align:top; margin:4px">
-  </a>&nbsp;&nbsp;&nbsp;
+- <a href="https://www.codechef.com/users/abhimaira_10"><img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/codechef.svg" alt="codechef" style="vertical-align:top; margin:4px">
+  </a>
   
   <a href="https://leetcode.com/abhishekmaira1999/">
     <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/leetcode.svg" alt="leetcode" style="vertical-align:top; margin:4px">
