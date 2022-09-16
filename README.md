@@ -7,22 +7,12 @@
 </div>
 
 <p align='center'>
-  <a href="https://www.linkedin.com/in/pk-bca/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="Pkumar.mca22@gmail.com">
-   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://stackoverflow.com/users/14945674/purushottam/">
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/Puru_bca">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/pkr.bca/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
-<br> <br>
+	<a href="https://www.linkedin.com/in/pk-bca/"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+	<a href="Pkumar.mca22@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
+	<a href="https://stackoverflow.com/users/14945674/purushottam/"> <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /> </a>
+	<a href="https://twitter.com/Puru_bca"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /> </a>
+	<a href="https://www.facebook.com/pkr.bca/"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/> </a>
+	<br> <br>
 </p>
 
 <!-- ABOUT ME -->
@@ -43,16 +33,13 @@
 - 💪🏼 Fav Quote : "Great Developers never stop learning".
 
 - ⚡ Fun fact : When I type, I like to use three dots…instead of a comma...
-#
+##
 
 ## <img src="https://c.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif" width="25"> <b> Programming Profiles </b>
 
-<p>
 <!--<a href="https://www.codechef.com/users/abhimaira_10"><img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/codechef.svg" alt="codechef" style="vertical-align:top; margin:4px"> </a> &nbsp; &nbsp; &nbsp;-->
-<a href="https://auth.geeksforgeeks.org/user/purushottamkumar4"> <img src="https://user-images.githubusercontent.com/84143197/190622996-5906af45-3824-4c78-a1d8-fdc3e0de7f4b.png" alt="GeeksForGeeks" style=" border:1px; border-radius:2px; vertical-align:top; margin:4px"> </a> &nbsp;&nbsp;&nbsp;
-<a href="https://leetcode.com/Pk_1998/"> <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/leetcode.svg" alt="leetcode" style="vertical-align:top; margin:4px">  </a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.hackerrank.com/Pkumar_98"> <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/hackerrank.svg" alt="hackerrank" style="vertical-align:top; margin:4px">  </a>&nbsp;&nbsp;&nbsp;
-</p>
+| [<img src="https://user-images.githubusercontent.com/84143197/190622996-5906af45-3824-4c78-a1d8-fdc3e0de7f4b.png" alt="GeeksForGeeks" style="vertical-align:top; margin:4px">](https://auth.geeksforgeeks.org/user/purushottamkumar4) | [<img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/leetcode.svg" alt="leetcode" style="vertical-align:top; margin:4px">](https://leetcode.com/Pk_1998/)| [<img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/hackerrank.svg" alt="hackerrank" style="vertical-align:top; margin:4px">](https://www.hackerrank.com/Pkumar_98) |
+|---|---|---|
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Pk_1998?theme=dark&hide=ranking&animation=false&cache=0)
 
