@@ -146,71 +146,22 @@
     </td>
   </tr>
   
-   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Web Postman</h3>
-      <br />
-        <a target="_blank" href="https://webpostman.netlify.app">
-          <img src="images/webpostman.jpg" width="100%" alt="Web Postman"/>
-        </a>
-      <br />
-        <p align="center">
-          <br>
-  <a href="https://github.com/rahulkarda/Web-Postman" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="http://webpostman.netlify.app" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>HTML5, CSS3, Javascript & PrismJs</strong> - A Web interface to easily create GET and POST requests to test and document APIs.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">IP Address Tracker</h3>
-        <br />
-        <a target="_blank" href="https://github.com/rahulkarda/IP-Address-Tracker">
-          <img src="images/iptracker.jpg" width="100%" alt="IP Address Tracker"/>
-        </a>
-        <br />
-        <p align="center">
-          <br>
-  <a href="https://github.com/rahulkarda/IP-Address-Tracker" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://trackmyip.netlify.app" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>HTML5, CSS3, Javascript & APIs</strong> - Tracks your IP Address and generates the live location on map.</p>
-    </td>
-  </tr>
+ 
 </table>
 
 <div>
   <p align="center">
     	<a href="https://github.com/7oSkaaa/Strees_Testing">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Strees_Testing&theme=tokyonight" alt="GitHub Stats" />
-     </a>
+     	</a>
     	<a href="https://github.com/7oSkaaa/Codeforces-Polygon-Template">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Codeforces-Polygon-Template&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-		<a href="https://github.com/7oSkaaa/Sorting-Algorithms">
+	<a href="https://github.com/7oSkaaa/Sorting-Algorithms">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Sorting-Algorithms&theme=tokyonight" alt="GitHub Stats" />
     	</a>
 	<a href="https://github.com/7oSkaaa/board-link-generator">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=board-link-generator&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/7oSkaaa/Tic-Tac-Toe-GUI">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Tic-Tac-Toe-GUI&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/7oSkaaa/PhoneBook-System">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=PhoneBook-System&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/7oSkaaa/Codeforces-Sheet-Generator">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Codeforces-Sheet-Generator&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/7oSkaaa/CP-Calendar">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=CP-Calendar&theme=tokyonight" alt="GitHub Stats" />
     	</a>
   </p>
 </div>
