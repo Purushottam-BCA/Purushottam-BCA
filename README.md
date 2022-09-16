@@ -140,31 +140,25 @@
   </a>
   <a href="https://apodbyrahul.netlify.app" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
+  </a> 
       </p>
         <p><strong>HTML5, CSS3, Javascript & APIs</strong> - With over 10,000 different images, pick a date to get the NASA Astronomy Picture of the Day!</p>
     </td>
   </tr>
-  
- 
+	
+<tr>
+   <td width="50%" valign="top">
+     <a href="https://github.com/7oSkaaa/Strees_Testing">
+       <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Strees_Testing&theme=tokyonight" alt="GitHub Stats" />
+     </a>
+   </td>	
+   <td width="50%" valign="top">	
+     <a href="https://github.com/7oSkaaa/Codeforces-Polygon-Template">
+       <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Codeforces-Polygon-Template&theme=tokyonight" alt="GitHub Stats" />
+     </a>
+  </td>
+</tr>
 </table>
-
-<div>
-  <p align="center">
-    	<a href="https://github.com/7oSkaaa/Strees_Testing">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Strees_Testing&theme=tokyonight" alt="GitHub Stats" />
-     	</a>
-    	<a href="https://github.com/7oSkaaa/Codeforces-Polygon-Template">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Codeforces-Polygon-Template&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/7oSkaaa/Sorting-Algorithms">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Sorting-Algorithms&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/7oSkaaa/board-link-generator">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=board-link-generator&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-  </p>
-</div>
 
 ###
 
