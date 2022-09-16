@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/pk-bca/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="Pkr.bca@gmail.com">
+  <a href="Pkumar.mca22@gmail.com">
    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://stackoverflow.com/users/14945674/purushottam/">
@@ -28,7 +28,7 @@
 <!-- ABOUT ME -->
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>
 <!-- RIGHT SIGHT PIC -->
-<img align="right" height="265px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<img align="right" height="260px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 - 🔭 I’m currently working at ` Cognizant ` as ` Java Full Stack Engineer `  
                                              
