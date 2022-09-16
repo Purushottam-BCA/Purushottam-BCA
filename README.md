@@ -62,9 +62,8 @@
 	| [<img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/cmake/cmake-original.svg" width="40">]() | [<img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/vscode/vscode-original.svg" width="40">]() | [<img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/jupyter/jupyter-original-wordmark.svg" width="40">]() | [<img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/visualstudio/visualstudio-plain.svg" width="45">]() | [<img src="https://1.bp.blogspot.com/-h9D36wzWc1E/WRHtrvRXlyI/AAAAAAAABPI/3MGZ1bpRPTYYxFWOkV-QwsXzY9klH-84gCLcB/s400/code%2Bblock%2Blogo.jpg" width="45">]() | [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5EUljSTU4Bl9jRgp5L0v7TUAlB-Ntl0EAIq_FSaofQ7tfCiVrbVW2Bs_24-UPCnRYVBE&usqp=CAU" width="45">]() | [<img src="https://user-images.githubusercontent.com/84143197/190735598-4bf3d8c5-5cea-4814-82bd-9fa396e66527.png" width="40">]() |
 	|---|---|---|---|---|---|---|
 	
-## ⚙️ Past work 
+## ⚙️ Projects 
 
-# Projects ⚙️
 <!-- <h1 align="center">Projects</h1> -->
 <table bordercolor="#66b2b2">
   
