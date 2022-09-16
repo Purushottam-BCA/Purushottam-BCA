@@ -32,11 +32,11 @@
 
 - 🔭 I’m currently working at ` Cognizant ` as ` Java Full Stack Engineer `
                                                  
-- 🌱 I’m actively looking for **` SDE-1 `** roles at **Product Based Companies**
+- 🌱 I’m actively looking for **` SDE-1 `** roles at **Product Based Companies** ( [RESUME](https://drive.google.com/file/d/1SSCRL05Wcka6zGZY8j7EQ1Dn4HmG1uX8/view) )
 
-- 👨‍💻 I'm currently learning Hadoop, 𝚂𝚌𝚊𝚕𝚊, 𝚂𝚙𝚊𝚛𝚔 and 𝙲𝚘𝚖𝚙𝚎𝚝𝚒𝚝𝚒𝚟𝚎 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐
+- 👨‍💻 I'm currently learning `Hadoop, 𝚂𝚌𝚊𝚕𝚊, 𝚂𝚙𝚊𝚛𝚔 and System Design`
 
-- 👯 I’m looking to collaborate on **Open Source/C++ Project**
+- 👯 I’m looking to collaborate on **Java Project/C++ Project**
 
 - 💬 Ask me about **C/C++/Data Structures/Java**
 
@@ -46,34 +46,16 @@
 
 ---
 
-## <img src="https://c.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif" width="25"> <b> Coding Platforms </b>
-<table border="1">
-<tr>
-<td>
-Hello
-</td>
-<td>
-![Leetcode Stats](https://leetcard.jacoblin.cool/Pk_1998?theme=dark&ext=heatmap&hide=ranking&animation=false&cache=0)
-</td>
-</tr>
-</table>
+## <img src="https://c.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif" width="25"> <b> Programming Profiles </b>
 
-- <a href="https://www.codechef.com/users/abhimaira_10"><img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/codechef.svg" alt="codechef" style="vertical-align:top; margin:4px">
-  </a>
-  
-  <a href="https://leetcode.com/abhishekmaira1999/">
-    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/leetcode.svg" alt="leetcode" style="vertical-align:top; margin:4px">
-  </a>&nbsp;&nbsp;&nbsp;
-
-  <a href="https://www.hackerrank.com/abhishekmaira191">
-    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/hackerrank.svg" alt="hackerrank" style="vertical-align:top; margin:4px">
-  </a>&nbsp;&nbsp;&nbsp;
-  
-  <a href="https://www.codewars.com/users/abhimaira_10">
-    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/codewars.svg" alt="codewars" style="vertical-align:top; margin:4px">
-  </a> &nbsp;&nbsp;&nbsp;
+<p>
+<!--<a href="https://www.codechef.com/users/abhimaira_10"><img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/codechef.svg" alt="codechef" style="vertical-align:top; margin:4px"> </a> &nbsp; &nbsp; &nbsp;-->
+<a href="https://auth.geeksforgeeks.org/user/purushottamkumar4"> <img src="https://user-images.githubusercontent.com/84143197/190622996-5906af45-3824-4c78-a1d8-fdc3e0de7f4b.png" alt="GeeksForGeeks" style=" border:1px; border-radius:2px; vertical-align:top; margin:4px"> </a> &nbsp;&nbsp;&nbsp;
+<a href="https://leetcode.com/Pk_1998/"> <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/leetcode.svg" alt="leetcode" style="vertical-align:top; margin:4px">  </a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.hackerrank.com/Pkumar_98"> <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/hackerrank.svg" alt="hackerrank" style="vertical-align:top; margin:4px">  </a>&nbsp;&nbsp;&nbsp;
 </p>
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/Pk_1998?theme=dark&ext=heatmap&hide=ranking&animation=false&cache=0&width=600)
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
@@ -220,6 +202,9 @@ Hello
     <img src="https://github-readme-stats.vercel.app/api?username=Purushottam-BCA&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true" align="center" />
     &nbsp;<img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Purushottam-BCA&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&layout=compact&langs_count=6&hide_border=true&hide=html,typescript,javascript,css" />
 </p>
+
 ---
+
+## <img src = "https://user-images.githubusercontent.com/84143197/190624901-84aaf379-922d-4f48-bfa0-824993998b41.png" width = 25> <b>Recent GitHub Activity</b>
 
 <img src="https://activity-graph.herokuapp.com/graph?username=Purushottam-BCA&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
