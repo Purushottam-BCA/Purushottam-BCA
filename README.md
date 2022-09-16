@@ -10,11 +10,11 @@
   <a href="https://www.linkedin.com/in/pk-bca/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://stackoverflow.com/users/14945674/purushottam/">
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
-  </a>
   <a href="Pkr.bca@gmail.com">
    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://stackoverflow.com/users/14945674/purushottam/">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
   </a>
   <a href="https://twitter.com/Puru_bca">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
@@ -47,8 +47,16 @@
 ---
 
 ## <img src="https://c.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif" width="25"> <b> Coding Platforms </b>
-
+<table border="1">
+<tr>
+<td>
+Hello
+</td>
+<td>
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Pk_1998?theme=dark&ext=heatmap&hide=ranking&animation=false&cache=0)
+</td>
+</tr>
+</table>
 
 - <a href="https://www.codechef.com/users/abhimaira_10"><img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/codechef.svg" alt="codechef" style="vertical-align:top; margin:4px">
   </a>
