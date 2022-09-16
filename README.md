@@ -32,7 +32,7 @@
 
 - 🔭 I’m currently working at ` Cognizant ` as ` Java Full Stack Engineer `
                                                  
-- 🌱 I’m actively looking for **` SDE-1 `** roles at **Product Based Companies** ( [RESUME](https://drive.google.com/file/d/1SSCRL05Wcka6zGZY8j7EQ1Dn4HmG1uX8/view) )
+- 🌱 I’m actively looking for **` SDE-1 `** roles ( [RESUME](https://drive.google.com/file/d/1SSCRL05Wcka6zGZY8j7EQ1Dn4HmG1uX8/view) )
 
 - 👨‍💻 I'm currently learning `Hadoop, 𝚂𝚌𝚊𝚕𝚊, 𝚂𝚙𝚊𝚛𝚔 and System Design`
 
@@ -199,12 +199,12 @@
 <!-- GITHUB STATS -->
 ## <img src = "https://user-images.githubusercontent.com/84143197/190625589-3b837d1e-dac1-4b56-ac84-ca3f5d94566f.gif" width = 25> <b>Github Stats</b>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Purushottam-BCA&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true" align="center" />
-    &nbsp;<img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Purushottam-BCA&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&layout=compact&langs_count=6&hide_border=true&hide=html,typescript,javascript,css" />
+  <img height="140px" src="https://github-readme-stats.vercel.app/api?username=Purushottam-BCA&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />&nbsp;
+  <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Purushottam-BCA&hide_title=true&hide_border=true&show_icons=true&layout=compact&langs_count=6&exclude_repo=Python-Programs&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite&hide=JupyterNotebook,html,typescript,javascript,css" />
 </p>
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/84143197/190637654-a9d0c2a6-5c3a-4f63-9634-531b451da9e4.gif" width="25"> <b> Recent GitHub Activity</b>
+## <b> Recent GitHub Activity</b>
 
 <img src="https://activity-graph.herokuapp.com/graph?username=Purushottam-BCA&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
