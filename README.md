@@ -7,8 +7,24 @@
 </div>
 
 
-| [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/pk-bca/)| [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](Pkumar.mca22@gmail.com) | [<img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />](https://stackoverflow.com/users/14945674/purushottam/) | [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Puru_bca) | [<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>](https://www.facebook.com/pkr.bca/)|
-|---|---|---|---|---|
+<p align='center'>
+  <a href="https://www.linkedin.com/in/pk-bca/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+ <a href="Pkumar.mca22@gmail.com">
+   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://stackoverflow.com/users/14945674/purushottam/">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/Puru_bca">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/pkr.bca/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+<br> 
+</p>
 
 <!-- ABOUT ME -->
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>
@@ -40,17 +56,17 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
-- Programming Languages 📋
+- ### Languages 📋
 
-| [<img src="https://user-images.githubusercontent.com/84143197/190712888-1c5a04da-9b80-4363-8c8a-3459820e8be0.png" alt="C" width="35">](https://www.cprogramming.com/)  | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp" width="35">](https://isocpp.org/)  | [<img src="https://user-images.githubusercontent.com/84143197/190714490-4b1a516a-0397-45a5-85a8-c83970512cf8.png" alt="Java" width="40">](https://www.java.com/)  |[<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/golang.png" alt="go logo" width="40">](https://golang.org/)  | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="c logo" width="28">](http://www.open-std.org/jtc1/sc22/wg14/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python logo" width="28">](https://www.python.org/) |
-|---|---|---|---|---|---|
+| [<img src="https://user-images.githubusercontent.com/84143197/190712888-1c5a04da-9b80-4363-8c8a-3459820e8be0.png" alt="C" width="40">](https://www.cprogramming.com/)  | [<img src="https://user-images.githubusercontent.com/84143197/190719657-54963ba3-e93c-4d3b-be4c-9196c618b5c0.png" alt="cpp" width="35">](https://isocpp.org/)  | [<img src="https://user-images.githubusercontent.com/84143197/190714490-4b1a516a-0397-45a5-85a8-c83970512cf8.png" alt="Java" width="40">](https://www.java.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python logo" width="45">](https://www.python.org/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/golang.png" alt="go logo" width="40">](https://golang.org/)  | [<img src="https://user-images.githubusercontent.com/84143197/190717689-1529c051-a6fb-4844-a0c9-3a3fb7b1c456.png" alt="HTML5 logo" width="40">]() | [<img src="https://user-images.githubusercontent.com/84143197/190718152-b9be6d8b-130f-467b-a791-b7b1e9f3fd08.png" alt="CSS3 logo" width="40">]() |[<img src="https://user-images.githubusercontent.com/84143197/190718062-373532f3-926c-48fc-804c-2d7116e7704d.png" alt="Visual Basic logo" width="40">]() |
+|---|---|---|---|---|---|---|---|
 
-- Tools 🛠️
+- ### Tools and Technologies 🛠️
 
 | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="js logo" width="24">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="ts logo" width="24">](https://www.typescriptlang.org/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" alt="rust logo" width="24">](https://www.rust-lang.org/)|
 |---|---|---|
     
-- Databases 💾
+- ### Databases 💾
 
     ![Oracle](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) 
     ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
@@ -58,7 +74,7 @@
     ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) 
     ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white)     
 
-- IDEs/Editors 💻
+- ### IDEs / Editors 💻
 
     ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
     ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
