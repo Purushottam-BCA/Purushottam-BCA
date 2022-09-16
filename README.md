@@ -205,6 +205,6 @@
 
 ---
 
-## ⚡<b>Recent GitHub Activity</b>
+## <img src="https://user-images.githubusercontent.com/84143197/190637654-a9d0c2a6-5c3a-4f63-9634-531b451da9e4.gif" width="25"> <b> Recent GitHub Activity</b>
 
 <img src="https://activity-graph.herokuapp.com/graph?username=Purushottam-BCA&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
