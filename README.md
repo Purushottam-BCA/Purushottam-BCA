@@ -22,11 +22,11 @@
 <!-- RIGHT SIGHT PIC -->
 <img align="right" height="260px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-- 🔭 I’m currently working at ` Cognizant ` as ` Java Full Stack Engineer `  
+- 🔭 I’m currently working at ` Siemens ` as ` Software Engineer `  
                                              
 - 🌱 I’m actively looking for `Software Developer` roles ( [RESUME](https://drive.google.com/file/d/1SSCRL05Wcka6zGZY8j7EQ1Dn4HmG1uX8/view) )
 
-- 👨‍💻 I'm currently learning `Hadoop, 𝚂𝚌𝚊𝚕𝚊, 𝚂𝚙𝚊𝚛𝚔 and System Design`
+- 👨‍💻 I'm currently learning `VLSI Design, Verilog, C++ and System Design`
 
 - 👯 I’m looking to collaborate on **Java Project/C++ Project**
 
