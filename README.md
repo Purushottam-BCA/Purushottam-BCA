@@ -165,4 +165,6 @@
 ## <img src = "https://user-images.githubusercontent.com/84143197/190625589-3b837d1e-dac1-4b56-ac84-ca3f5d94566f.gif" width = 25> <b>Github Stats</b>
 | <a href="https://github.com/Purushottam-BCA/github-readme-stats"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Purushottam-BCA&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </a> | <a href="https://github.com/Purushottam-BCA/github-readme-stats"> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Purushottam-BCA&hide_title=true&hide_border=true&show_icons=true&layout=compact&langs_count=6&exclude_repo=Python-Programs&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite&hide=jupyter%20notebook,html,typescript,javascript,css" /></a> |
 | ------------- | ------------- |
-<img src="https://activity-graph.herokuapp.com/graph?username=Purushottam-BCA&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
+
+### Visitor count
+<img src="https://profile-counter.glitch.me/Purushottam-BCA/count.svg" />
