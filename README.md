@@ -95,9 +95,9 @@
             <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Purushottam-BCA&repo=Junior-Math&theme=dark" alt="GitHub Stats" />
             </a>
         </td>
-        <td width="50%" valign="top">	
-            <a href="https://github.com/7oSkaaa/Codeforces-Polygon-Template">
-            <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Codeforces-Polygon-Template&theme=dark" alt="GitHub Stats" />
+	<td width="50%" valign="top">
+            <a href="https://github.com/Purushottam-BCA/Junior-Math">
+            <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Purushottam-BCA&repo=Junior-Math&theme=dark" alt="GitHub Stats" />
             </a>
         </td>
     </tr>
