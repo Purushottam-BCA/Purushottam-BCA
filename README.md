@@ -73,35 +73,6 @@
 	<code><img height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/w3c.svg"></code>
 	<code><img height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/stackexchange.svg"></code>
 	<code><img height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/geeksforgeeks.svg"></code>
-	
-#### ⚙️ Projects 
-
-<table bordercolor="#66b2b2">
-    <tr>
-        <td width="50%" valign="top">
-            <a href="https://github.com/7oSkaaa/Strees_Testing">
-            <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Strees_Testing&theme=dark" alt="GitHub Stats" />
-            </a>
-        </td>
-        <td width="50%" valign="top">	
-            <a href="https://github.com/Purushottam-BCA/Junior-Math">
-            <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Codeforces-Polygon-Template&theme=dark" alt="GitHub Stats" />
-            </a>
-        </td>
-    </tr>
-    <tr>
-        <td width="50%" valign="top">
-            <a href="https://github.com/Purushottam-BCA/Junior-Math">
-            <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Purushottam-BCA&repo=Junior-Math&theme=dark" alt="GitHub Stats" />
-            </a>
-        </td>
-	<td width="50%" valign="top">
-            <a href="https://github.com/Purushottam-BCA/Junior-Math">
-            <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Purushottam-BCA&repo=Junior-Math&theme=dark" alt="GitHub Stats" />
-            </a>
-        </td>
-    </tr>
-</table>
 
 #### 🌐 Visitor count
 <img src="https://profile-counter.glitch.me/Purushottam-BCA/count.svg" />
