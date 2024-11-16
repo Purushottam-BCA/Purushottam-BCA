@@ -30,8 +30,7 @@
 
 <br />
 
-#### :book: About Me
-<!-- RIGHT Side PIC -->
+### :book: About Me
 <img align="right" height="220px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 - 🔭 Working as **`  Software Engineer  `** at **`  Siemens EDA  `**
@@ -44,9 +43,9 @@
 - 📫 Feel free to ping me on <a href="https://www.linkedin.com/in/puruma82/">LinkedIn</a>
 ####
 
-#### 🛠️<b> Skills</b> 
+### 🛠️<b> Skills</b> 
 
-- ##### Languages and Tools
+- #### Languages and Tools
 	<code><img height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/cplusplus.svg"></code>
 	<code><img height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/python.svg"></code>
 	<code><img height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/git.svg"></code>
@@ -57,14 +56,14 @@
  	<code><img height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/css3.svg"></code>
 	<code><img height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/gnubash.svg"></code> 
 	<img align="right"  src="https://github-readme-stats.vercel.app/api?username=Purushottam-BCA&count_private=true&show_icons=true" alt="Purushottam" /> 
-- ##### IDEs and Softwares
+- #### IDEs and Softwares
 	<code><img height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/visualstudiocode.svg"></code>
 	<code><img height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/vim.svg"></code>
 	<code><img height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/cmake.svg"></code>
 	<code><img height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/jupyter.svg"></code>
 	<code><img height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/eclipseide.svg"></code>
 	<code><img height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/visualstudio.svg"></code>
-- ##### Favorite sites
+- #### Favorite sites
 	<code><img height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/github.svg"></code>
 	<code><img height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/google.svg"></code>
 	<code><img height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/stackoverflow.svg"></code>
@@ -74,5 +73,10 @@
 	<code><img height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/stackexchange.svg"></code>
 	<code><img height="24" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/geeksforgeeks.svg"></code>
 
-#### 🌐 Visitor count
-<img src="https://profile-counter.glitch.me/Purushottam-BCA/count.svg" />
+<h2> ‎ </h2>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Purushottam-BCA&bg_color=1a1b27&color=aa82d9&line=628edb&point=64bfaf&area=true&hide_border=true)">
+
+<!--
+	#### 🌐 Visitor count
+	<img src="https://profile-counter.glitch.me/Purushottam-BCA/count.svg" />
+-->
