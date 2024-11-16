@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/puruma82/">
   <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />
 </a>
-<a href="Pkumar.mca22@gmail.com">
+<a href="mailto:Pkumar.mca22@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/gmail.svg" />
 </a>
 <a href="https://twitter.com/Puru_bca">
