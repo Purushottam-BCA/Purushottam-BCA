@@ -30,10 +30,9 @@
 
 <br />
 
-<!-- ABOUT ME -->
 ### :book: About Me
 <!-- RIGHT Side PIC -->
-<img align="right" height="200px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<img align="right" height="190px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 - 🔭 Working as **`  Software Engineer  `** at **`  Siemens EDA  `**
 - 🌱 Currently learning **Go language** and **C++ Application Development**. 
@@ -43,6 +42,7 @@
 - 💪🏼 Fav Quote : "Good developers never stop learning".
 - ⚡ Fun fact : When I type, I like to use **three dots…** instead of a **comma...**
 ###
+
 <!--
 	### <img src="https://c.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif" width="25"> <b> Programming Profiles </b>
 	
@@ -51,20 +51,40 @@
 	![Leetcode Stats](https://leetcard.jacoblin.cool/Pk_1998?theme=dark&hide=ranking&animation=true&cache=0)
 -->
 
-### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+### 🛠️<b> Skills</b> 
 
-- #### Languages 📋
+- #### Languages and Tools 📋
+	<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/python.svg"></code>
+	<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/html5.svg"></code>
+	<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/css3.svg"></code>
+	<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/javascript.svg"></code>
+	<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/sublimetext.svg"></code>
+	<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/pycharm.svg"></code>
+	<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/git.svg"></code>
+	<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/mysql.svg"></code>
+	<img align="right"  src="https://github-readme-stats.vercel.app/api?username=Jackyu-1999&count_private=true&show_icons=true" alt="Jackyu" />
 
-	| [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" alt="C" width="40">](https://www.cprogramming.com/)  | [<img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/cplusplus/cplusplus-plain.svg" alt="cpp" width="45">](https://isocpp.org/)  | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" alt="Java" width="40">](https://www.java.com/) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" alt="python logo" width="40">](https://www.python.org/) | [<img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/go/go-original-wordmark.svg" alt="go logo" width="40">](https://golang.org/)  | [<img src="https://user-images.githubusercontent.com/84143197/190717689-1529c051-a6fb-4844-a0c9-3a3fb7b1c456.png" alt="HTML5 logo" width="40">]() | [<img src="https://user-images.githubusercontent.com/84143197/190718152-b9be6d8b-130f-467b-a791-b7b1e9f3fd08.png" alt="CSS3 logo" width="40">]() |[<img src="https://user-images.githubusercontent.com/84143197/190718062-373532f3-926c-48fc-804c-2d7116e7704d.png" alt="Visual Basic logo" width="40">]() | [<img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png" alt="Visual Basic logo" width="40">]() |
-	|---|---|---|---|---|---|---|---|---|
+- #### Technology being learned ⭐️
+	<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/linux.svg"></code>
+	<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/vim.svg"></code>
+	<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/django.svg"></code>
+	<code><img height="20" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg"></code>
+	<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/jquery.svg"></code>
+	<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/typescript.svg"></code>
+	<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"></code>
+	<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/react.svg"></code>        
 
-- #### Tools, Libraries and Frameworks ⭐️
+- #### 	Favorite sites 🛠️
+	<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/github.svg"></code>
+	<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/google.svg"></code>
+	<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/stackoverflow.svg"></code>
+	<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/youtube.svg"></code>
+	<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/steam.svg"></code>
+	<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/freecodecamp.svg"></code>
+	<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/w3c.svg"></code>
+	<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/stackoverflow.svg"></code>
 
-	| [<img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/spring/spring-original-wordmark.svg" alt="Spring" width="45">]()  | [<img src="https://user-images.githubusercontent.com/84143197/190725810-2e64f5dc-6dcd-43f2-813d-bc22534b22cf.png" alt="Github Logo" width="45">]() | [<img src="https://user-images.githubusercontent.com/84143197/190737510-f34559fa-91d4-40e2-8ace-5fea7e72e467.png" width="40">](https://golang.org/) | [<img src="https://user-images.githubusercontent.com/84143197/190741986-dc284220-5839-43e1-b43a-f0f65e277cf7.png" width="40">]() | [<img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/angularjs/angularjs-plain.svg" width="40">]() | [<img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/tomcat/tomcat-original-wordmark.svg" width="40">]() |
-	|---|---|---|---|---|---|
-        
-- #### IDEs and Softwares 🛠️
-
+ - #### IDEs and Softwares 🛠️
 	| [<img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/cmake/cmake-original.svg" width="40">]() | [<img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/vscode/vscode-original.svg" width="40">]() | [<img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/jupyter/jupyter-original-wordmark.svg" width="40">]() | [<img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/visualstudio/visualstudio-plain.svg" width="45">]() | [<img src="https://1.bp.blogspot.com/-h9D36wzWc1E/WRHtrvRXlyI/AAAAAAAABPI/3MGZ1bpRPTYYxFWOkV-QwsXzY9klH-84gCLcB/s400/code%2Bblock%2Blogo.jpg" width="45">]() | [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5EUljSTU4Bl9jRgp5L0v7TUAlB-Ntl0EAIq_FSaofQ7tfCiVrbVW2Bs_24-UPCnRYVBE&usqp=CAU" width="45">]() | [<img src="https://user-images.githubusercontent.com/84143197/190735598-4bf3d8c5-5cea-4814-82bd-9fa396e66527.png" width="40">]() |
 	|---|---|---|---|---|---|---|
 	
